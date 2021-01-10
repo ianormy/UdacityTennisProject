@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.ipynb_checkpoints/
+.idea/
+Tennis_Windows_x86_64/
